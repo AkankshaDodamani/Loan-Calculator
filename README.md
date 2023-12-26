@@ -1,4 +1,3 @@
-This is a loan calculator built with HTML, CSS & JavaScript.
 Features :
 Users can enter a loan amount, interest rate, and months to repay
 Loading animation displays upon submission
